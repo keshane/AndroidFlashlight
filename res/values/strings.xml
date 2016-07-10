@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="off_text">Off</string>
+    <string name="on_text">On</string>
+</resources>
